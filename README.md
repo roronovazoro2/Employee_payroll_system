@@ -20,7 +20,6 @@ The **Employee Payroll Management System** is a C++ program designed to manage e
 ```
 📦 EmployeePayrollSystem
  ┣ 📜 main.cpp         # Main program logic
- ┣ 📜 employee.h       # Employee class header file
  ┣ 📜 employee.cpp     # Employee class implementation
  ┣ 📜 payroll.txt      # Stored employee data
  ┗ 📜 README.md        # Project documentation
@@ -34,7 +33,7 @@ The **Employee Payroll Management System** is a C++ program designed to manage e
 ### Installation
 1. Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/EmployeePayrollSystem.git
+   git clone https://github.com/roronovazoro2/Employee_payroll_system.git
    ```
 2. Navigate to the project directory:
    ```sh
@@ -64,4 +63,4 @@ Contributions are welcome! Feel free to fork this repository and submit pull req
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 📞 Contact
-For any inquiries, reach out to [Your Name](mailto:your.email@example.com) or visit [GitHub Profile](https://github.com/yourusername).
+For any inquiries, reach out to [MDL](mailto:monkeydluffy_joy@proton.me) or visit [GitHub Profile](https://github.com/roronovazoro2).
